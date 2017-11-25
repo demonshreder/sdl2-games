@@ -1,17 +1,19 @@
 # Demonshreder's SDL2 games
 
-As Go was meant to replace C++, I started makings games in Go using the SDL2 bindings.
+As Go was meant to replace C++, I started making games in Go using the SDL2 bindings.
 This repo is for public reference.
 
 ### Prerequisites
 
-* GCC/MinGW(Windows - native/cross-compile)
-* SDL2 {ttf/img} (.so/.dll)
+* GCC/MinGW (Windows - native/cross-compile)
+* SDL2 { ttf/img } (.so/.dll)
 
 
 ## License
 
-This project is in public domain - see the [UNLICENSE.md](UNLICENSE.md) file for details
+* *My* code - Public Domain - see the [UNLICENSE.md](UNLICENSE.md) file for details
+* Go bindings for SDL2 from [veandco](https://github.com/veandco/go-sdl2) - BSD 3 Clause
+* Various fonts - Open Font License or Apache, as provided in [ttf](ttf/) folder (Google their names for more details)
 
 <!-- 
 ### Installing
