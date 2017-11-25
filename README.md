@@ -5,14 +5,15 @@ This repo is for public reference.
 
 ### Prerequisites
 
+* Go / GCCGo 
 * GCC/MinGW (Windows - native/cross-compile)
 * SDL2 { ttf/img } (.so/.dll)
 
 
 ## License
 
-* *My* code - Public Domain - see the [UNLICENSE.md](UNLICENSE.md) file for details
-* Go bindings for SDL2 from [veandco](https://github.com/veandco/go-sdl2) - BSD 3 Clause
+* *My* code - Apache 2.0 - see the [LICENSE.md](LICENSE.md) file for details
+* Go bindings for SDL2 from [veandco](https://github.com/veandco/go-sdl2) repo - BSD 3 Clause
 * Various fonts - Open Font License or Apache, as provided in [ttf](ttf/) folder (Google their names for more details)
 
 <!-- 
