@@ -344,7 +344,7 @@ func main() {
 	paddleObjects[0] = &paddleOne
 	paddleObjects[1] = &paddleTwo
 
-	blue, _ := img.Load("blue.png")
+	blue, _ := img.Load("img/blue.png")
 	defer blue.Free()
 	ballOne.texture, _ = renderer.CreateTextureFromSurface(blue)
 	defer ballOne.texture.Destroy()
